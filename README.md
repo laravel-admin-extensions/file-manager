@@ -4,7 +4,7 @@ File manager for Cloud Storage.
 
 ## Screenshot
 
-![wx20170809-170104](https://user-images.githubusercontent.com/1479100/29113762-99886c32-7d24-11e7-922d-5981a5849c7a.png)
+<img src="https://user-images.githubusercontent.com/2421068/55272835-f5780d80-52fd-11e9-9f56-07ea778925c5.png">
 
 ## Installation
 
@@ -22,7 +22,6 @@ Add a disk config in `config/admin.php`:
     ],
 ],
 ```
-
 
 Open `http://localhost/admin/file-manager`.
 
