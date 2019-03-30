@@ -25,6 +25,11 @@ Add a disk config in `config/admin.php`:
 
 Open `http://localhost/admin/file-manager`.
 
-License
-------------
+
+## More resources
+
+[Awesome Laravel-admin](https://github.com/jxlwqq/awesome-laravel-admin)
+
+## License
+
 Licensed under [The MIT License (MIT)](LICENSE).
