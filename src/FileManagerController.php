@@ -15,8 +15,7 @@ class FileManagerController extends Controller
 
         $manager = new FileManager($path);
         return $content
-            ->header('Title')
-            ->description('Description')
+            ->header('File Manager')
             ->body(view("laravel-admin-file-manager::$view", [
                 'list'   => $manager->ls(),
                 'nav'    => $manager->navigation(),
