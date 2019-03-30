@@ -1,6 +1,6 @@
 # File manager for laravel-admin
 
-File manager for Cloud Storage.
+File manager for Cloud Storage, based on [Media manager for local disk](https://github.com/laravel-admin-extensions/media-manager).
 
 ## Screenshot
 
